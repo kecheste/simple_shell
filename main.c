@@ -1,7 +1,7 @@
 /*
  * File: main.c
  * Auth: Abenezer Tesfaye
- *       Aser Hailu
+ *       Aser HAllu
  */
 
 #include "shell.h"
@@ -21,7 +21,6 @@ void sig_handler(int sig)
 	signal(SIGINT, sig_handler);
 	write(STDIN_FILENO, new_prompt, 3);
 }
-
 /**
  * execute - Executes a command in a child process.
  * @args: An array of arguments.

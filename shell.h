@@ -4,7 +4,7 @@
 /*
  * File: shell.h
  * Auth:  Abenezer Tesfaye
- *     	   Aser Hailu
+ *     	   Aser HAllu
  */
 
 #include <fcntl.h>
