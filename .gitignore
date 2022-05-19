@@ -1,4 +1,6 @@
+# Ignore Emacs buffer files
+*#
+*~
+
+# Ignore executable file
 *.out
-test.c
-betty_report
-hsh
